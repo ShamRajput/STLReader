@@ -1,0 +1,19 @@
+﻿Build started 11-07-2015 03:02:47.
+     1>Project "G:\Preparation\Project\STLReader\STLReader\STLReader.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Triangle.cpp
+         Triangle.cpp
+     1>g:\preparation\project\stlreader\stlreader\triangle.cpp(9): error C2679: binary '=' : no operator found which takes a right-hand operand of type 'int' (or there is no acceptable conversion)
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\array(211): could be 'std::array<int,3> &std::array<int,3>::operator =(const std::array<int,3> &)'
+                 while trying to match the argument list '(Indices, int)'
+     1>g:\preparation\project\stlreader\stlreader\triangle.cpp(10): error C2679: binary '=' : no operator found which takes a right-hand operand of type 'int' (or there is no acceptable conversion)
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\array(211): could be 'std::array<int,3> &std::array<int,3>::operator =(const std::array<int,3> &)'
+                 while trying to match the argument list '(Indices, int)'
+     1>g:\preparation\project\stlreader\stlreader\triangle.cpp(11): error C2679: binary '=' : no operator found which takes a right-hand operand of type 'int' (or there is no acceptable conversion)
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\array(211): could be 'std::array<int,3> &std::array<int,3>::operator =(const std::array<int,3> &)'
+                 while trying to match the argument list '(Indices, int)'
+     1>Done Building Project "G:\Preparation\Project\STLReader\STLReader\STLReader.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.98

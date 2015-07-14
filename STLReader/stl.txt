@@ -1,0 +1,36 @@
+Solid 
+facet normal 10 20 30
+    outer loop
+        vertex 1 1 1
+        vertex 2 2 2
+        vertex 3 3 3
+    endloop
+endfacet
+endsolid
+Solid 
+facet normal 10 20 30
+    outer loop
+        vertex 1 1 1
+        vertex 2 2 2
+        vertex 3 3 3
+    endloop
+endfacet
+endsolid
+Solid 
+facet normal 10 20 30
+    outer loop
+        vertex 1 1 1
+        vertex 2 2 2
+        vertex 3 3 3
+    endloop
+endfacet
+endsolid
+Solid 
+facet normal 10 20 30
+    outer loop
+        vertex 1 1 1
+        vertex 2 2 2
+        vertex 3 3 3
+    endloop
+endfacet
+endsolid
